@@ -1,2 +1,2 @@
 # OnlineShop
-This shop application help you to manage products, orders and payments
+This shop application helps you to manage products, orders and payments.
